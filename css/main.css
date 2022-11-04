@@ -210,13 +210,13 @@ font-family: 'Dancing Script', cursive;
     display: grid;
     height: 650px !important;
     row-gap: 10px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     /* overflow-y: hidden; */
     margin-top: 10px !important;
   }
 
   #photo{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 100% !important;
     text-align: center;
   }
