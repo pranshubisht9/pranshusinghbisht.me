@@ -64,6 +64,7 @@ font-size: 21px;
     }
     #clock{
         font-size: 50px;
+        /* margin-top: %; */
         }
 
     #animation-social{
@@ -89,6 +90,10 @@ font-size: 21px;
       #authorName{
         margin-top: 3%;
         font-size: 15px;
+      }
+
+      #clock>span{
+        font-size: 30px;
       }
 }
 @media screen and (max-width: 481px){
